@@ -2,14 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/Users/Pc/Documents/NetBeansProjects/Libreria/src/Servicios/LibroServicio.java</file>
-            <file>file:/C:/Users/Pc/Documents/NetBeansProjects/Libreria/src/libreria/Libreria.java</file>
-            <file>file:/C:/Users/Pc/Documents/NetBeansProjects/Libreria/src/Entidades/Libro.java</file>
-            <file>file:/C:/Users/Pc/Documents/NetBeansProjects/Libreria/src/libreria/newhtml.html</file>
-            <file>file:/C:/Users/Pc/Documents/NetBeansProjects/Libreria/src/Servicios/AutorServicio.java</file>
-            <file>file:/C:/Users/Pc/Documents/NetBeansProjects/Libreria/src/Persistencias/AutorDAO.java</file>
-            <file>file:/C:/Users/Pc/Documents/NetBeansProjects/Libreria/src/Persistencias/LibroDAO.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
