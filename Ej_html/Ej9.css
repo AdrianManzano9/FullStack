@@ -1,0 +1,36 @@
+ul.lista{
+    list-style-type: square !important;
+    width: auto;
+    list-style: circle;
+    background-color: aqua;
+    margin: auto;
+    padding: 20px;
+    color: violet;
+}
+.lista li{
+    
+    margin: auto;
+    margin-bottom: 5px;
+    text-align: center;
+    font-size: x-large;
+    width: 62px;
+    background: blue;
+    border-bottom: 2px transparent black;
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px transparent black;
+}
+.links li a{
+background-color: seagreen;
+color:red
+}
+.links li a:active{
+background-color: turquoise;
+color: black;
+}
+.links li a:hover{
+background-color: springgreen;
+}
+.links li a:visited{
+color: slateblue;
+}

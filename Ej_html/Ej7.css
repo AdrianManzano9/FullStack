@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    font-family: cursive;
+}
+p{
+    font-family: fantasy;
+    color: blue;
+    text-align: left;
+}
